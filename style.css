@@ -222,3 +222,7 @@ img {
 .images {
   margin-top: 72px;
 }
+.images-dogs {
+  display: flex;
+  justify-content: space-between;
+}
